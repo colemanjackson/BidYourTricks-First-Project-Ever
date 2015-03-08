@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-//TODO: Add Swing Interface and Java application/Android Development logic where possible
 /**
  * Methods for the Main method to run during the game tracking events
  * 
